@@ -25,3 +25,12 @@
 
 ![DHT22 Arduino connection](https://lastminuteengineers.com/wp-content/uploads/arduino/Arduino-Wiring-Fritzing-Connections-with-DHT22.png)
 
+### Output
+![Output-1](/Output/Output-1.jpeg)
+![Output-2](/Output/Output-2.jpeg)
+![Output-3](/Output/Output-3.jpeg)
+
+## Instructions
+1. Make the required connections.
+2. In Arduino IDE, choose 'add a .ZIP library' and add the DHTlib .zip file to the list of libraries.
+3. Upload the code to the Arduino Uno board.
